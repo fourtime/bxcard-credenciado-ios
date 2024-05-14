@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMhL8Qd7gZzy6KOjjjt6zgl0S4B-IqixQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>243188414082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.tln.bxcard.credenciador</string>
+	<key>PROJECT_ID</key>
+	<string>telenet-usuario-9b5a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>telenet-usuario-9b5a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:243188414082:ios:b29c5a5f18ec769cb5669b</string>
+	<key>DATABASE_URL</key>
+	<string>https://telenet-usuario-9b5a7.firebaseio.com</string>
+</dict>
+</plist>
